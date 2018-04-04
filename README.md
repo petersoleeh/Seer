@@ -1,2 +1,2 @@
 # Seer
-Seer inc
+Seer inc.
